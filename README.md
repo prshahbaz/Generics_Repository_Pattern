@@ -1,0 +1,2 @@
+# Generics_Repository_Pattern
+ Generics_Repository_Pattern Project
